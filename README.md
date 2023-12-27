@@ -16,13 +16,13 @@ Our results demonstrate that TransFusE DTI exhibits superior predictive performa
 
 ### Graphical abstract
 
-## ![figure_1](/Users/jonghyunlee/Workspace/TransFusE-DTI/fig/figure_1.jpeg)
+## ![figure_1](fig/figure_1.jpeg)
 
 
 
 ### Conceptual diagram
 
-![figure_2](/Users/jonghyunlee/Workspace/TransFusE-DTI/fig/figure_2.jpeg)
+![figure_2](fig/figure_2.jpeg)
 
 
 
