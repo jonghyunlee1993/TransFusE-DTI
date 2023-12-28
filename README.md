@@ -45,8 +45,8 @@ python ./run.py -c config/EXAMPLE_CONFIG_FILE.yaml
 ## Datasets
 
 - Original datasets: [MolTrans GitHub Repo](https://github.com/kexinhuang12345/MolTrans/tree/master/dataset)
-- Our datasets: [Zenodo]()
-- Target sequence embeddings from pre-trained ProtBERT encoder: [Zenodo]()
+- Our datasets: [Zenodo](https://zenodo.org/records/10436059)
+- Target sequence embeddings from pre-trained ProtBERT encoder: [Zenodo](https://zenodo.org/records/10436059)
 
 
 
